@@ -1,0 +1,56 @@
+html {
+  font-family: Verdana, sans-serif;
+  background-image: url(../images/sloth-bg.svg);
+  background-size: 48px auto;
+  background-color: #bea586;
+}
+
+body {
+  max-width: 608px;
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+header {
+  padding-top: 15px;
+}
+
+img {
+  padding-top: 2px;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  color: white;
+  text-shadow: 2px 2px 0 black;
+  padding-left: 10px;
+}
+
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-style: italic;
+  font-family: Georgia;
+  padding: 5px 0 5px 10px;
+}
+
+.border {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+cite {
+  font-style: normal;
+  text-decoration: underline;
+}
+footer {
+  padding-top: 15px;
+
+}
