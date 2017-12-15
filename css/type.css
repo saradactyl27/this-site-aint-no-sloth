@@ -527,3 +527,8 @@ a:focus, [tabindex="0"]:focus {
 [aria-disabled] {
   cursor: default;
 }
+
+.peta {
+  font-size: 1.2962rem;
+  line-height: 1.95rem;
+}
